@@ -33,3 +33,10 @@ Follow these steps to clone and run the project:
    ```bash
    git clone git@github.com:yzarzar/SpringSecurityDemo.git
    cd SpringSecurityDemo
+
+## 📺 Video Tutorial
+
+[![Spring Boot Security Tutorial]([https://img.youtube.com/vi/abcd1234](https://www.youtube.com/watch?v=GH7L4D8Q_ak)/0.jpg)]([https://www.youtube.com/watch?v=abcd1234](https://www.youtube.com/watch?v=GH7L4D8Q_ak))
+
+Click the image above to watch the tutorial on YouTube.
+
