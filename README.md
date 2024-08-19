@@ -32,5 +32,11 @@ Follow these steps to clone and run the project:
 1. **Clone the repository**:
    ```bash
    git clone git@github.com:yzarzar/SpringSecurityDemo.git
+
+2. **Clone the repository**:
+   ```bash
    cd SpringSecurityDemo
 
+1. **Clone the repository**:
+   ```bash
+   ./mvnw spring-boot: run
